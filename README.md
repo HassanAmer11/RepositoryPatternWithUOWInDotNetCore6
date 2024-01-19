@@ -1,0 +1,2 @@
+# RepositoryPatternWithUOWInDotNetCore6
+RepositoryPatternWithUOWInDotNetCore6
